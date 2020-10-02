@@ -116,7 +116,7 @@ td.eg { border-width: thin; text-align: center; }
 }
 @font-face {
   font-family: 'Essays1743';
-  font-style: italic;
+  font-style: oblique;
   font-weight: bold;
   src: url('/fonts/Essays1743-BoldItalic.ttf');
 }
